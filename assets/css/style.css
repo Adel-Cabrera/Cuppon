@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+  font-weight: 300;
+}
+
+.logo-top {
+  width: 20%;
+
+}
+
+.logo-bottom {
+  width: 20%;
+}
+
+.cupones {
+  margin-top: 100px;
+}
+
+.precio {
+  color: #28A745;
+  font-size: 20px;
+  font-weight: 500;
+  padding-left: 10px;
+}
+
+.formulario-verde {
+  background-color: #28A745;
+}
+
+.texto-gris {
+  color: #707070;
+}
